@@ -14,13 +14,8 @@ section{
     padding: 10px;
     margin: auto;
     width: 500px;
-    height: 500px;
     box-shadow: 5px 5px 5px black;
-    color: black;
 
-}
-div{
-    text-align: center;
 }
 footer{
     text-align: center;
